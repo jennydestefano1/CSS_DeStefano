@@ -1,0 +1,59 @@
+		body {
+			border-top: 8px;
+			border-top-color: black;
+			border-top-style: solid;
+			border-bottom: 1px;
+			border-bottom-color: black;
+			border-bottom-style: solid;
+			text-align: center;
+			padding: 20px;
+		}
+		.site_banner h3 {
+			font-family: "Basier", Basier, serif;
+			font-weight: bold;
+			font-size: 14px;
+			color: #de2f23;
+		}
+		#logo {
+			width: 330px;
+		}
+		.article {
+			max-width: 900px;
+			margin-left: 5%;
+			margin-right: 5%;
+		}
+		.story_header {
+			font-family: "Basier", Basier, serif;
+			font-size: 20px;
+		}
+		.story_header h1 {
+			font-size: 46px;
+			margin-bottom: 0px;
+		}
+		.byline {
+			font-weight: bold;
+		}
+		.story_copy {
+			font-family: "Pensum", Pensum, serif;
+			font-size: 20px;
+		}
+		.photo {
+			width: 100%;
+		}
+		.photo_caption {
+			color: gray;
+			font-size: 14px;
+			margin-top: 0px;
+		}
+		.footer {
+			font-family: "Basier", Basier, serif;
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+		.footer_info {
+			color: gray;
+			font-size: 14px;
+		}
+		a {
+			color: black;
+		}
